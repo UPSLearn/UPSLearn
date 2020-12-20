@@ -30,13 +30,13 @@
 <br />
 
 [Website]: TBD
-[Gmail]: [Gmail](upslearn2020@gmail.com)
+[Gmail]: mailto:upslearn2020@gmail.com
 [Youtube]: https://www.youtube.com/channel/UCgh4gTkk2iJOt6CTiseP_ug
 [Twitter]: https://twitter.com/ULearn2020
-[Instagram]: 
-[Facebook]: 
-[Notion]:
+[Instagram]: https://www.instagram.com/upslearn2020/?hl=en
+[Facebook]: https://www.facebook.com/ups.learn
+[Notion]: www.notion.so/upslearn2020
 [Linkedin]: https://www.linkedin.com/in/surendra-reddy-55208948/
-[Discord]:
-[Slack]:
-[Github]:
+[Discord]: https://discord.com/channels/@me
+[Slack]: upslearn2020.slack.com
+[Github]: 
