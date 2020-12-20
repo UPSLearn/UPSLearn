@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=learnups2020.com&style=for-the-badge&url=https%3A%2F%2Flearnups2020.wordpress.com)](https://learnups2020.wordpress.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ULearn2020?color=1DA1F2&logo=twitter&style=for-the-badge)]()
 
-![Work Hard on Every Waking Hour](https://github.com/SurendraRedd/SurendraRedd/blob/main/Home.gif?raw=true)
+![UPSLearn2020](https://github.com/UPSLearn/UPSLearn/blob/main/Home.gif?raw=true)
 
 ## I'm a Product Owner, Developer, Tester and Learner!!
 
