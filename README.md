@@ -5,26 +5,29 @@
 
 ![UPSLearn2020](https://github.com/UPSLearn/UPSLearn/blob/main/Home.gif?raw=true)
 
-## I'm a Product Owner, Developer, Tester and Learner!!
+## We build Projects Using Latest Technologies!!
 
-- 🔭 Refer the Blog Post on latest technologies https://learnups2020.wordpress.com/
-- 🌱 I’m currently trying to learn everything 🤣 not sure how much i can able to remember all the concepts 🤣
-- 🥅 Quote: Work hard on every waking hour
-- ⚡ Fun fact: I love to play cricket / watching movies
+- 🔭 Refer the Blog Post on latest technologies TBD
+- 🌱 We help in creating the projects
+- 🥅 Quote: An Example Has Twice The Value As Good Advice!!!
+- ⚡ Fun fact: TBD
 
-<!-- Connect with me -->
-### Connect with me:
+<!-- Connect with us -->
+### Connect with us:
 
-[<img align="left" alt="LeArN2020" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LeArN2020 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="LeArN2020 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LeArN2020 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="UPS" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
+[<img align="left" alt="UPS | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
+[<img align="left" alt="UPS | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][Youtube]
+[<img align="left" alt="UPS | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="UPS | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="UPS | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
+[<img align="left" alt="UPS | Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/notion.svg" />][Notion]
+[<img align="left" alt="UPS | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="UPS | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
+[<img align="left" alt="UPS | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />][Slack]
+[<img align="left" alt="UPS | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
 
 <br />
-<!-- Connect with me -->
-
-<!--
-**SurendraRedd/SurendraRedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -38,7 +41,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[website]: https://learnups2020.wordpress.com/
-[youtube]: https://youtube.com/channel/UCgh4gTkk2iJOt6CTiseP_ug
-[twitter]: https://twitter.com/surendraece402
-[linkedin]: https://www.linkedin.com/in/surendra-reddy-55208948/
+[Website]: TBD
+[Gmail]: upslearn2020@gmail.com
+[Youtube]: https://www.youtube.com/channel/UCgh4gTkk2iJOt6CTiseP_ug
+[Twitter]: https://twitter.com/ULearn2020
+[Instagram]: 
+[Facebook]: 
+[Notion]:
+[Linkedin]: https://www.linkedin.com/in/surendra-reddy-55208948/
+[Discord]:
+[Slack]:
+[Github]:
