@@ -39,4 +39,4 @@
 [Linkedin]: https://www.linkedin.com/in/surendra-reddy-55208948/
 [Discord]: https://discord.com/channels/@me
 [Slack]: upslearn2020.slack.com
-[Github]: 
+[Github]: https://github.com/UPSLearn
