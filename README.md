@@ -1,7 +1,7 @@
 ### Hi there, We are UPS - aka [UPSLearn2020] 👋
 
 [![Website](https://img.shields.io/website?label=learnups2020.com&style=for-the-badge&url=https%3A%2F%2Flearnups2020.wordpress.com)](https://learnups2020.wordpress.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ULearn2020?color=1DA1F2&logo=twitter&style=for-the-badge)]()
+[![Twitter Follow](https://img.shields.io/twitter/follow/ULearn2020?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FULearn2020&screen_name=ULearn2020)
 
 ![UPSLearn2020](https://github.com/UPSLearn/UPSLearn/blob/main/Home.gif?raw=true)
 
